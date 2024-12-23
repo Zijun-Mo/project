@@ -1,0 +1,3 @@
+/home/mozijun/Mycode_c/project/project/build/CMakeFiles/minidb.dir
+/home/mozijun/Mycode_c/project/project/build/CMakeFiles/edit_cache.dir
+/home/mozijun/Mycode_c/project/project/build/CMakeFiles/rebuild_cache.dir

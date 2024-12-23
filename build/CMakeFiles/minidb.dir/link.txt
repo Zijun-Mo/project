@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/minidb.dir/src/main.cpp.o CMakeFiles/minidb.dir/src/parser.cpp.o CMakeFiles/minidb.dir/src/calculation.cpp.o CMakeFiles/minidb.dir/src/Global.cpp.o -o /home/mozijun/Mycode_c/project/project/bin/minidb

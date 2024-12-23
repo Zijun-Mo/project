@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/mozijun/Mycode_c/project/project/build",
+  "command": "/usr/bin/c++  -I/home/mozijun/Mycode_c/project/project/include -std=gnu++17 -o CMakeFiles/minidb.dir/src/main.cpp.o -c /home/mozijun/Mycode_c/project/project/src/main.cpp",
+  "file": "/home/mozijun/Mycode_c/project/project/src/main.cpp",
+  "output": "CMakeFiles/minidb.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/mozijun/Mycode_c/project/project/build",
+  "command": "/usr/bin/c++  -I/home/mozijun/Mycode_c/project/project/include -std=gnu++17 -o CMakeFiles/minidb.dir/src/parser.cpp.o -c /home/mozijun/Mycode_c/project/project/src/parser.cpp",
+  "file": "/home/mozijun/Mycode_c/project/project/src/parser.cpp",
+  "output": "CMakeFiles/minidb.dir/src/parser.cpp.o"
+},
+{
+  "directory": "/home/mozijun/Mycode_c/project/project/build",
+  "command": "/usr/bin/c++  -I/home/mozijun/Mycode_c/project/project/include -std=gnu++17 -o CMakeFiles/minidb.dir/src/calculation.cpp.o -c /home/mozijun/Mycode_c/project/project/src/calculation.cpp",
+  "file": "/home/mozijun/Mycode_c/project/project/src/calculation.cpp",
+  "output": "CMakeFiles/minidb.dir/src/calculation.cpp.o"
+},
+{
+  "directory": "/home/mozijun/Mycode_c/project/project/build",
+  "command": "/usr/bin/c++  -I/home/mozijun/Mycode_c/project/project/include -std=gnu++17 -o CMakeFiles/minidb.dir/src/Global.cpp.o -c /home/mozijun/Mycode_c/project/project/src/Global.cpp",
+  "file": "/home/mozijun/Mycode_c/project/project/src/Global.cpp",
+  "output": "CMakeFiles/minidb.dir/src/Global.cpp.o"
+}
+]
